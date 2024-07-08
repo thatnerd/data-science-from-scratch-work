@@ -1,3 +1,6 @@
 First file for graphite.
+This is the merged file from two PR's.
 
 Presumably I will modify this file, and add more as well.
+
+Hopefully I will add more later.
