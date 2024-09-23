@@ -70,7 +70,7 @@ def magnitude(v: Vector) -> float:
 
 def squared_distance(v: Vector, w: Vector) -> float:
     """Finds the square of the distance between two vectors"""
-    return sum_of_squares(subract(v, w))
+    return sum_of_squares(subtract(v, w))
 
 
 
